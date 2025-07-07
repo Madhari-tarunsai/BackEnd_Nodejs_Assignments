@@ -1,4 +1,4 @@
-// index.js
+
 const math = require("./math.js");
 
 const a = 3;

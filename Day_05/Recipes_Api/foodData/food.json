@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "Fast Food",
+      "price": 250,
+      "rating": 4.5,
+      "ingredients": ["cheese", "tomato sauce", "basil"],
+      "isVegetarian": true
+    },
+    {
+      "id": 2,
+      "name": "Chicken Biryani",
+      "category": "Main Course",
+      "price": 300,
+      "rating": 4.7,
+      "ingredients": ["chicken", "rice", "spices", "yogurt"],
+      "isVegetarian": false
+    },
+    {
+      "id": 3,
+      "name": "Paneer Butter Masala",
+      "category": "Main Course",
+      "price": 220,
+      "rating": 4.4,
+      "ingredients": ["paneer", "butter", "tomato gravy"],
+      "isVegetarian": true
+    },
+    {
+      "id": 4,
+      "name": "Mango Shake",
+      "category": "Beverage",
+      "price": 120,
+      "rating": 4.2,
+      "ingredients": ["mango", "milk", "sugar"],
+      "isVegetarian": true
+    },
+    {
+      "id": 5,
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "price": 90,
+      "rating": 4.8,
+      "ingredients": ["khoya", "sugar syrup", "cardamom"],
+      "isVegetarian": true
+    },
+    {
+      "id": 6,
+      "name": "Caesar Salad",
+      "category": "Salad",
+      "price": 180,
+      "rating": 4.1,
+      "ingredients": ["lettuce", "croutons", "parmesan", "dressing"],
+      "isVegetarian": false
+    },
+    {
+      "id": 7,
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "price": 150,
+      "rating": 4.6,
+      "ingredients": ["rice batter", "potato masala", "chutney", "sambar"],
+      "isVegetarian": true
+    },
+    {
+      "id": 8,
+      "name": "French Fries",
+      "category": "Snacks",
+      "price": 100,
+      "rating": 4.3,
+      "ingredients": ["potato", "salt", "oil"],
+      "isVegetarian": true
+    }
+  ]
